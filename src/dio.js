@@ -1,4 +1,5 @@
-console.log("Teste vamos nessa")
+let nome = "Eduardo"
+console.log(nome)
 
 
 
